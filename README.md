@@ -44,5 +44,5 @@ pip install flask
 # 2️ Run the app
 python app.py
 
-# 3️⃣ Test in browser or Postman
+# 3️ Test in browser or Postman
 http://127.0.0.1:5000/
